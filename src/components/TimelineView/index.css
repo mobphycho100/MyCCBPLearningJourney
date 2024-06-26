@@ -1,0 +1,27 @@
+/* Write your CSS here */
+.main-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  padding: 20px;
+  height: 100vh;
+}
+.main-heading {
+  color: #171f46;
+  text-align: center;
+  font-size: 23px;
+  margin: 0;
+  padding: 0;
+}
+.ccbp-heading {
+  color: #2b237c;
+  font-size: 28px;
+  margin: 5px;
+}
+.chrono-container {
+  height: 600px;
+  flex-grow: 1;
+  width: 97%;
+  max-width: 900px;
+}
